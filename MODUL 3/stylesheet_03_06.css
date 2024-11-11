@@ -13,7 +13,6 @@ transition:background-color 0.5s ease;
     width:100px;
     height:100px;
     background-color:lightblue;
-    font:"inggit";
     margin-top:20px;
     animation:slide 2s infinite;
 }
